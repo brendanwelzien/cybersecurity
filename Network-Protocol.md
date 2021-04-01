@@ -80,3 +80,6 @@
 - It was designed to meet the limitations of IPv4 address space and security.
 - The transition from IPv4 to IPv6 is expected to take several more years. In the meantime, expect to see a mix of IPv4, IPv4/IPv6 (dual stack), and IPv6-only networks. 
 - To help with the transition from IPv4 to IPv6, several methods were developed, including Teredo and Intra-Site Automatic Tunnel Addressing Protocol (ISATAP).  
+
+
+- ipv6 is a 128-bit system where ipv4 is a 32-bit system

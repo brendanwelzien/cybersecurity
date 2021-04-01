@@ -1,0 +1,39 @@
+## Command Prompt
+- the windows command prompt is Microsoft's version of a command-line interface or CLI
+- running the command prompt as an Admin is also known as *running it in elevated mode*
+- `dir/?` command
+- `ipconfig` and `ping` can be used to analyze, test, troubleshoot, and configure ipv4 and ipv6 connections
+    - `ipconfig/all`, `ipconfig/release`
+    - `ping` is used to test network connectivity
+        - uses ICMP (internet control message protocol), which sends error messages and operational information
+    - `Tracert` command
+    - `PathPing` command
+- `NbtStat` command:
+    - displays NetBIOS over TCP/IP statistics for *local* and *remote* computers
+    - NetBios developed in 80s to allow apps to communicate over network via session layer of OSI model
+    - NetBios over TCP/IP sends the NetBIOS protocol within TCP and UDP sessions
+- `netstat` command:
+    - used to display active TCP or UDP connections, as well as the host of other stats
+- `Nslookup` command displays info about DNS names and their corresponding IP addresses, and can be used to diagnose DNS servers
+- `FTP` command (File transfer protocol): application layer protocol as well as an application
+    - the `FTP` command is used in command prompt to connect to FTP servers
+- `Telnet` command: used to take control of a remote computer
+    - a network admin connects to a remote computer, server, router, or switch by typing `telnet [IPAddress]`
+    - older, and should be replaced with a more secure program such as **SSH(Secure Shell)**
+    - troubleshooting by putting port number
+- `Netsh` command: scripting utility that enables you to display and modify network configurations of local computer
+- `Route` print command: usd to display routing table for a Windows machine
+    - Same result as `netstat -r`, but it is more *commonly* used
+    - can be used to add and delete static routes
+    - routing it meant to *make connections to remote networks*
+    - `net` command is not considered part of TCP/IP, but displays important info about networking data and configures networking options like *services*
+
+## Summary
+- The Command Prompt window is the Microsoft version of a command-line interface (CLI). Just about anything you can accomplish in the GUI can also be done in the Command Prompt window, and when it comes to TCP/IP commands, the Command Prompt window can be even more effective.
+- Ipconfig and ping are some of the best friends to a network administrator. These basic TCP/IP commands can help to analyze and troubleshoot networking issues that might occur. 
+- They also offer a certain amount of configurative ability as well as the ability to create performance baselines. 
+- Nslookup displays information about DNS names and their corresponding IP addresses and can be used to diagnose DNS servers. An internet connection is required. 
+- Netstat and nbtstat commands both show statistics of the network connection, but netstat centers on the local computer, whereas nbtstat can also show statistics for remote machines. 
+- To show network paths, use the tracert and pathping commands.
+- Windows PowerShell is a command-line interface used mainly by IT professionals to run cmdlets (pronounced command-lets), complete background jobs (processes or programs that run in the background without a user interface), and run scripts to perform administrative tasks. 
+- The net command can display all kinds of important networking data and allow you to configure various networking options such as services. 
