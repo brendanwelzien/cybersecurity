@@ -74,9 +74,9 @@
     - if an individual packet is not delivereed in a timely manner, it is re-sent, this is done bc the sending computer has the established connection and knows where to resend the packet
 - Connectionless Communications:
     - no end-to-end connection is necessary before data is sent
-    - every packet that is snet has destination address in its header
+    - every packet that is sent has destination address in its header
     - this is sufficient to move independent packets, such as when streaming media
-    - if the packet is lost, it cannot be re-sent, because hte sending computer never established a logical connection and does not know which logical connection to use the send failed packet
+    - if the packet is lost, it cannot be re-sent, because the sending computer never established a logical connection and does not know which logical connection to use the send failed packet
 - Ports:
     - layer 4 takes care of ports that a computer uses for data transmission
     - ports act as logical communications endpoints for computers

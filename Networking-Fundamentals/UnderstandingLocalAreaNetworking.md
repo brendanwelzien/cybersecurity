@@ -2,7 +2,7 @@
     - vrandle@nhorlando.com
 
 # Networking Fundamentals
-- understanding lcoal area networking
+- understanding local area networking
 - defining networks with the OSI model
 - understanding wireless networks
 - understanding internet protocol
@@ -101,7 +101,7 @@
     - network that sends data logically in a ring fashion meaning that a token goes to each computer, one at a time, but is physically connected in a star fashion
     - all computers in token ring network are connected to a central connecting device known as Multistation access (MAU or MSAU)
 - Ethernet:
-    - stadnardized by **Institute of Electrical and Electronics Engineers** (IEEE) as **802.3**
+    - standardized by **Institute of Electrical and Electronics Engineers** (IEEE) as **802.3**
     - computers on ethernet networks communicate by sending ethernet frames
     - a **frame** is a group of bytes packaged by a network adapter for transmission across network
     - the **IEEE 802.3** defines carrier sense multiple access with collision detection or CSMDA/CD

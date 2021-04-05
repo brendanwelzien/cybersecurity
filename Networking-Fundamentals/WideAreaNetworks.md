@@ -96,7 +96,7 @@
     - T3: Stands for trunk Carrier 3. 
         - Equivalent of 28 T1s. It is considered 44.736 Mbps, using 672 64 Kbps B channels. 
 
-## ISON 
+## ISDN 
 - integrated services digital network is a digital technology developed to combat limitations of PSTN
 - users that have ISDN can send data, fax, or talk on phone simultaneously from one line
 - ISDN can be broken down into two major categories:
