@@ -94,7 +94,8 @@
     - T1: It is considered 1.544 Mbps, but only 1.536 Mbps of that is for data. 
         - The 1.536 Mbps is broken into 24 equal 64 Kbps channels and can be used with a multiplexor.
     - T3: Stands for trunk Carrier 3. 
-        - Equivalent of 28 T1s. It is considered 44.736 Mbps, using 672 64 Kbps B channels. 
+        - Equivalent of 28 T1s. It is considered 44.736 Mbps, using 672 64 Kbps B channels
+         
 
 ## ISDN 
 - integrated services digital network is a digital technology developed to combat limitations of PSTN

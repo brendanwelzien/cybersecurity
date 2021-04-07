@@ -70,7 +70,7 @@
 - perimeter security zones such as DMZs help keep certain information open to specific users or to the public while keeping the rest of an organization's data secret
 
 ## Firewalls
-- used to protect a network from malicious attak and unwanted intrusion
+- used to protect a network from malicious attack and unwanted intrusion
 - most commonly used type of security device in an organization's perimeter
 
 ## Packet Filtering

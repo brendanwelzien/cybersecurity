@@ -28,7 +28,7 @@
 
 **Risk Management**
 
-- in a risk assessment environment it is common to record risks in a _risk register_ (documentation of risks, impacts, controls, and other info required by RM program)
+- in a risk assessment environment it is common to record risks in a _*isk register* (documentation of risks, impacts, controls, and other info required by RM program)
 
 **Dealing with Risks**
 
